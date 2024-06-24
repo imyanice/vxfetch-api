@@ -1,0 +1,17 @@
+{
+	"scripts": {
+		"dev": "ts-node server.ts",
+		"test": "ts-node test.ts"
+	},
+	"dependencies": {
+		"fastify": "^4.28.0",
+		"fuse.js": "^7.0.0",
+		"jszip": "^3.10.1",
+		"parse-torrent": "^11.0.16"
+	},
+	"devDependencies": {
+		"@types/node": "^20.14.7",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.5.2"
+	}
+}

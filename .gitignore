@@ -1,0 +1,6 @@
+.DS_Store
+torrents
+formatted
+node_modules
+.idea
+topics.json
